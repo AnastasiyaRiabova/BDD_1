@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/v0rl50ra7nplxom3?svg=true)](https://ci.appveyor.com/project/AnastasiyaRiabova/bdd)# BDD_1
+[![Build status](https://ci.appveyor.com/api/projects/status/lf8w12hipovplt8b?svg=true)](https://ci.appveyor.com/project/AnastasiyaRiabova/bdd-1)
